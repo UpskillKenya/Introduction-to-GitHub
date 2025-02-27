@@ -1,0 +1,15 @@
+
+//git push
+
+git init
+git add .
+git commit -m ""
+git branch -M main
+git remote add origin https://github.com/UpskillKenya/intro-to-GitHub.git
+git push
+
+//other commands
+git remote remove origin
+
+git pull - get remote changes to your local machine
+git push - get our local changes to the remote repository
